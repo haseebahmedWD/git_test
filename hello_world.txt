@@ -1,3 +1,2 @@
 This is hello world file
 This is file
-This line is newly added
